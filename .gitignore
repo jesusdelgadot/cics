@@ -1,0 +1,3 @@
+# Ignorar archivos específicos
+config/db.php
+config/config_local.php
